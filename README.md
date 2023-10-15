@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajeedaninda&label=Profile%20views&color=0e75b6&style=flat" alt="sajeedaninda" /> </p>
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently working on **Express JS**
 
-- 🌱 I’m currently learning **API's and React.js**
+- 🌱 I’m currently learning *MongoDB and Express.js**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SajeedAninda?tab=repositories](https://github.com/SajeedAninda?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, Tailwind, ES6, API's React**
+- 💬 Ask me about **HTML, CSS, Tailwind, ES6, API's, React, Firebase, MongoDB, NodeJS, ExpressJS**
 
 - 📫 How to reach me **sajaninda@gmail.com**
 
