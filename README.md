@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Express JS**
 
-- 🌱 I’m currently learning *MongoDB and Express.js**
+- 🌱 I’m currently learning *MongoDB and Express.js*
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
