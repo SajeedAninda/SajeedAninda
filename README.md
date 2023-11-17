@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sajeed</h1>
 <h3 align="center">A passionate MERN-Stack developer from Bangladesh</h3>
 
-<img align="right" alt="coder" width="450" height="310"
+<img align="right" alt="coder" width="480" height="400"
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NqejBvMHQycnY2Mm44d3BuZ3E4NzJ1NW51N3kwcDgwOXJ2dWZrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=sajeedaninda&label=Profile%20views&color=0e75b6&style=flat"
@@ -20,8 +20,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sajeed-aninda/](https://www.linkedin.com/in/sajeed-aninda/)
 
-<h3 align="center" style="margin-top: 8px">Connect with me:</h3>
-<p align="center">
+<h3 align="left" style="margin-top: 8px">Connect with me:</h3>
+<p align="left">
     <a href="https://twitter.com/saj_aninda" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="saj_aninda" height="30" width="40" /></a>
