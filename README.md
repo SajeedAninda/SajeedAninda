@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sajeed-aninda/](https://www.linkedin.com/in/sajeed-aninda/)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center" style="margin-top: 8px">Connect with me:</h3>
 <p align="center">
     <a href="https://twitter.com/saj_aninda" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
