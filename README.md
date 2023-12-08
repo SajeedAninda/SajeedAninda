@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN-Stack developer from Bangladesh</h3>
 
 <img align="right" alt="coder" width="450" height="360"
-    src="https://ruya.studio/assets/images/dev.webp">
+    src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=sajeedaninda&label=Profile%20views&color=0e75b6&style=flat"
         alt="sajeedaninda" /> </p>
