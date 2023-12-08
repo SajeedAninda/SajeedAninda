@@ -97,5 +97,5 @@
         alt="sajeedaninda" /></p>
 
 <p align="center">
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SajeedAninda%20&theme=transparent" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SajeedAninda%20&theme=transparent&type=png" alt="GitHub Streak" /></a>
 </p>
