@@ -87,15 +87,15 @@
             alt="canva" width="40" height="40" />
     </a>
 </p>
+<br>
+<p align="center"><img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent"
+        alt="sajeedaninda" /></p>
 
 <p align="center"><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sajeedaninda&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api?username=sajeedaninda&show_icons=true&theme=transparent"
         alt="sajeedaninda" /></p>
 
-<p align="center">&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=sajeedaninda&show_icons=true&locale=en"
-        alt="sajeedaninda" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajeedaninda&"
-        alt="sajeedaninda" />
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SajeedAninda%20&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
