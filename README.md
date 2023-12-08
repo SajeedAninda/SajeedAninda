@@ -1,4 +1,4 @@
-![logo](https://github.com/SajeedAninda/SajeedAninda/blob/main/Sajeed%20Aninda.png)
+![logo](https://github.com/SajeedAninda/SajeedAninda/blob/main/SajeedEnayetAninda.png)
 <h1 align="center">Hi 👋, I'm Sajeed</h1>
 <h3 align="center">A passionate MERN-Stack developer from Bangladesh</h3>
 
@@ -8,23 +8,20 @@
         src="https://komarev.com/ghpvc/?username=sajeedaninda&label=Profile%20views&color=0e75b6&style=flat"
         alt="sajeedaninda" /> </p>
 
-- 🔭 I’m currently working on [Bistro-Boss](https://github.com/SajeedAninda/Bistro-Boss)
+- 🔭 I’m currently working on [Visa_Ghor-A Travel Agency Website](https://github.com/SajeedAninda/Bistro-Boss](https://github.com/SajeedAninda/Visa-Ghor-Client))
 
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 💬 Ask me about **HTML, CSS, Git, Tailwind, ES6, API's, React, Firebase, MongoDB, NodeJS, ExpressJS**
+- 💬 Technologies i work on **HTML, CSS, Tailwind, Javascript, ES6, API's, React, Firebase, MongoDB, NodeJS, ExpressJS**
 
 - 📫 How to reach me **sajaninda@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sajeed-aninda/](https://www.linkedin.com/in/sajeed-aninda/)
+- 📄 Get to know better on [Linkedin](https://www.linkedin.com/in/sajeed-aninda/)
 
 <h3 align="left" style="margin-top: 8px">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/saj_aninda" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="saj_aninda" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/sajeed-aninda" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="sajeed-aninda" height="30" width="40" /></a>
@@ -77,12 +74,6 @@
             alt="cplusplus" width="40" height="40" /> </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" /> </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
