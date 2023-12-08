@@ -89,13 +89,13 @@
 </p>
 <br>
 <p align="center"><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SajeedAninda&theme=transparent"
         alt="sajeedaninda" /></p>
 
 <p align="center"><img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=sajeedaninda&show_icons=true&theme=transparent"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajeedAninda&theme=transparent"
         alt="sajeedaninda" /></p>
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SajeedAninda%20&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SajeedAninda%20&theme=transparent" alt="GitHub Streak" /></a>
 </p>
