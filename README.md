@@ -94,6 +94,7 @@
 
 
 <h1 align="center">Some Recent Projects</h1>
+
 ## Sovereign Assets Solutions
 A web application that streamlines asset management for businesses through an intuitive platform, allowing HR/Admins to effortlessly track employee interactions with company assets.
 
