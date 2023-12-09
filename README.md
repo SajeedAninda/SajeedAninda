@@ -1,9 +1,11 @@
 ![logo](https://raw.githubusercontent.com/SajeedAninda/SajeedAninda/main/Sajeed.png)
 <h1 align="center">Hi 👋, I'm Sajeed</h1>
-<h3 align="center">A passionate MERN-Stack developer from Bangladesh</h3>
+<h4 align="center">A passionate MERN-Stack developer from Bangladesh</h3>
 
+<h1 align="center">About me</h1>
+<h4 align="center">I am an Enthusiastic and eager MERN Stack Developer with a passion for building innovative web applications. Seeking an entry-level position to apply my theoretical knowledge and hands-on experience in a challenging and collaborative environment. Eager to learn from experienced developers and contribute my skills and enthusiasm to a team focused on creating cutting-edge web experiences.</h1>
 <div style="margin-right:"30px">
-    <p> <img
+    <p align="center"> <img
         src="https://komarev.com/ghpvc/?username=sajeedaninda&label=Profile%20views&color=0e75b6&style=flat"
         alt="sajeedaninda" /> </p>
 
