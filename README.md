@@ -1,4 +1,4 @@
-![logo](https://github.com/SajeedAninda/SajeedAninda/blob/main/SajeedEnayetAninda.png)
+![logo](https://raw.githubusercontent.com/SajeedAninda/SajeedAninda/main/Sajeed.png)
 <h1 align="center">Hi 👋, I'm Sajeed</h1>
 <h3 align="center">A passionate MERN-Stack developer from Bangladesh</h3>
 
@@ -8,7 +8,9 @@
         src="https://komarev.com/ghpvc/?username=sajeedaninda&label=Profile%20views&color=0e75b6&style=flat"
         alt="sajeedaninda" /> </p>
 
-- 🔭 I’m currently working on [Visa_Ghor-A Travel Agency Website](https://github.com/SajeedAninda/Bistro-Boss](https://github.com/SajeedAninda/Visa-Ghor-Client))
+- 🔭 I'm presently engaged in Full Stack projects to enhance my portfolio and explore innovative technologies and tools.
+
+
 
 - 🌱 I’m currently learning **Next JS**
 
@@ -88,14 +90,65 @@
     </a>
 </p>
 <br>
-<p align="center"><img align="center"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SajeedAninda&theme=transparent"
-        alt="sajeedaninda" /></p>
 
-<p align="center"><img align="center"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajeedAninda&theme=transparent"
-        alt="sajeedaninda" /></p>
 
+
+# Some Recent Projects
+## Sovereign Assets Solutions
+A web application that streamlines asset management for businesses through an intuitive platform, allowing HR/Admins to effortlessly track employee interactions with company assets.
+
+### Technologies Used: 
+Tailwind CSS, React JS, React Router, Node JS, Express, Firebase, MongoDB, JWT, Apex Charts, React Stripe JS, Swiper JS, Axios, MUI.
+
+### Features:
+- Integrated a Card Payment System utilizing the Stripe platform.
+- Crafted custom layouts for Admin, Employee, and Guests, optimizing user interfaces based on their specific roles.
+- Developed comprehensive set of API endpoints for CRUD operations with advanced features for efficient data handling.
+
+#### Links:  [Live Link](https://sovereign-assets-solution.web.app/) |  [Client Side](https://github.com/SajeedAninda/Sovereign-Assets-Client) | [Server Side](https://github.com/SajeedAninda/Sovereign-Assets-Server)
+
+
+
+
+
+## Delightful Blogs
+A web application that streamlines asset management for businesses through an intuitive platform, allowing HR/Admins to effortlessly track employee interactions with company assets.
+
+### Technologies Used: 
+React, React Router, Tailwind CSS, Node JS, Express, Firebase, MongoDB, JWT, Framer Motion, React Photo View, Axios, MUI.
+
+### Features:
+- Added a user-exclusive comments section for enhanced interaction.
+- Showcased latest blogs on homepage for instant access and visibility.
+- Implemented Blog Filtering and Search Tab from Backend.
+
+#### Links:  [Live Link](https://delightful-blogs-sajeed.netlify.app/) |  [Client Side](https://github.com/SajeedAninda/Delightful-Blogs-Client) | [Server Side](https://github.com/SajeedAninda/Delightful-Blogs-Server)
+
+
+
+## Auto-Crafters
+Auto Crafters stands as the ultimate hub for automotive excellence. Carefully crafted, the platform ensures users a thorough and immersive journey into the realm of automobiles.
+
+### Technologies Used: 
+React.js, Tailwind CSS, DaisyUI, React Router, SweetAlert2, Node.js, Express.js, MongoDB, MongoDB Atlas, Firebase
+
+### Features:
+- User Authentication with Email, Password and Social Login.
+- Executed CRUD Operations with several complex API's in Backend
+- Implemented Dark Mode toggle across the website.
+
+#### Links:  [Live Link](https://auto-crafters-sajeed.netlify.app/) |  [Client Side](https://github.com/SajeedAninda/Auto-Crafters-Client) | [Server Side](https://github.com/SajeedAninda/Auto-Crafters-Server)
+
+
+
+
+# Github Stats
+<p align="center"><img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent"
+        alt="sajeedaninda" /></p>
 <p align="center">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SajeedAninda%20&theme=transparent&type=png" alt="GitHub Streak" /></a>
+</p>
+<p align="center">
+   <a href="https://git.io/streak-stats"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajeedAninda&theme=transparent" alt="GitHub Streak" /></a>
 </p>
