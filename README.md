@@ -144,9 +144,6 @@ React.js, Tailwind CSS, DaisyUI, React Router, SweetAlert2, Node.js, Express.js,
 
 # Github Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=false&username=SajeedAninda" height="150" alt="languages graph"  />
-</p>
-<p align="center">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SajeedAninda%20&theme=transparent&type=png" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
