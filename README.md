@@ -93,7 +93,7 @@
 
 
 
-# Some Recent Projects
+<h1 align="center">Some Recent Projects</h1>
 ## Sovereign Assets Solutions
 A web application that streamlines asset management for businesses through an intuitive platform, allowing HR/Admins to effortlessly track employee interactions with company assets.
 
@@ -142,7 +142,7 @@ React.js, Tailwind CSS, DaisyUI, React Router, SweetAlert2, Node.js, Express.js,
 
 
 
-# Github Stats
+<h1 align="center">Github Stats</h1>
 <p align="center">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SajeedAninda%20&theme=transparent&type=png" alt="GitHub Streak" /></a>
 </p>
