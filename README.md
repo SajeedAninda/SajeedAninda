@@ -113,7 +113,7 @@ Tailwind CSS, React JS, React Router, Node JS, Express, Firebase, MongoDB, JWT, 
 
 
 ## Delightful Blogs
-A web application that streamlines asset management for businesses through an intuitive platform, allowing HR/Admins to effortlessly track employee interactions with company assets.
+A web platform that provides a delightful and immersive experience for bloggers and readers alike.
 
 ### Technologies Used: 
 React, React Router, Tailwind CSS, Node JS, Express, Firebase, MongoDB, JWT, Framer Motion, React Photo View, Axios, MUI.
