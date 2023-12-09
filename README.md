@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sajeed</h1>
 <h3 align="center">A passionate MERN-Stack developer from Bangladesh</h3>
 
-<img align="right" alt="coder" width="450" height="360"
-    src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 <div style="margin-right:"30px">
     <p> <img
         src="https://komarev.com/ghpvc/?username=sajeedaninda&label=Profile%20views&color=0e75b6&style=flat"
@@ -24,8 +22,8 @@
 - 📄 Get to know better on [Linkedin](https://www.linkedin.com/in/sajeed-aninda/)
 </div>
 
-<h3 align="left" style="margin-top: 8px">Connect with me:</h3>
-<p align="left">
+<h3 align="center" style="margin-top: 8px">Connect with me:</h3>
+<p align="center">
     <a href="https://linkedin.com/in/sajeed-aninda" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="sajeed-aninda" height="30" width="40" /></a>
@@ -36,7 +34,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="_a.n.i.n.d.a_" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
