@@ -11,11 +11,11 @@
 
 
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Redux**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 💬 Technologies i work on **HTML, CSS, Tailwind, Javascript, ES6, API's, React, Firebase, MongoDB, NodeJS, ExpressJS**
+- 💬 Technologies i work on **HTML, CSS, Tailwind, Javascript, ES6, API's, React, NextJS Firebase, MongoDB, NodeJS, ExpressJS**
 
 - 📫 How to reach me **sajaninda@gmail.com**
 
@@ -95,6 +95,20 @@
 
 <h1 align="center">Some Recent Projects</h1>
 
+## Scholarix
+A comprehensive platform connecting students with expert guidance, resources, and opportunities to navigate their academic 
+journey effectively. 
+
+### Technologies Used: 
+Tailwind CSS, React JS, React Router, Node JS, Express, Firebase, MongoDB, Tanstack Query, SSL Commerz, Swiper JS, Axios, Headless UI, Intersection Observer. 
+
+### Features:
+- Developed integration for mobile and card payments utilizing the SSLCommerz platform. 
+- Highly intricate parallel filtering functionality using Backend, enhancing performance and efficiency. 
+- Separate dashboards tailored for users and administrators by employing conditional rendering methods.
+
+#### Links:  [Live Link](https://scholarix.netlify.app/) |  [Client Side](https://github.com/SajeedAninda/Scholarix-Client) | [Server Side](https://github.com/SajeedAninda/Scholarix-Server)
+
 ## Sovereign Assets Solutions
 A web application that streamlines asset management for businesses through an intuitive platform, allowing HR/Admins to effortlessly track employee interactions with company assets.
 
@@ -109,37 +123,19 @@ Tailwind CSS, React JS, React Router, Node JS, Express, Firebase, MongoDB, JWT, 
 #### Links:  [Live Link](https://sovereign-assets-solution.web.app/) |  [Client Side](https://github.com/SajeedAninda/Sovereign-Assets-Client) | [Server Side](https://github.com/SajeedAninda/Sovereign-Assets-Server)
 
 
-
-
-
-## Delightful Blogs
-A web platform that provides a delightful and immersive experience for bloggers and readers alike.
+## Artisan-Alley
+A vibrant marketplace connecting artisans and buyers through a feature-rich full-stack Next.js and Express.js web application.  
 
 ### Technologies Used: 
-React, React Router, Tailwind CSS, Node JS, Express, Firebase, MongoDB, JWT, Framer Motion, React Photo View, Axios, MUI.
+Next.js, Firebase, Node.js, Express.js, MongoDB Atlas, Axios, Tanstack Query, Swiper.js, Lottie React, React Hot 
+Toast, React Icons, React Loader Spinner, Dotenv. 
 
 ### Features:
-- Added a user-exclusive comments section for enhanced interaction.
-- Showcased latest blogs on homepage for instant access and visibility.
-- Implemented Blog Filtering and Search Tab from Backend.
+- Secure authentication system with multiple user-role management using Google Firebase. 
+- Dynamic parallel product filtering functionality on the products page from the backend.
+- Convenient booking and management of artisan products, including bookmarking and tracking sales.
 
-#### Links:  [Live Link](https://delightful-blogs-sajeed.netlify.app/) |  [Client Side](https://github.com/SajeedAninda/Delightful-Blogs-Client) | [Server Side](https://github.com/SajeedAninda/Delightful-Blogs-Server)
-
-
-
-## Auto-Crafters
-Auto Crafters stands as the ultimate hub for automotive excellence. Carefully crafted, the platform ensures users a thorough and immersive journey into the realm of automobiles.
-
-### Technologies Used: 
-React.js, Tailwind CSS, DaisyUI, React Router, SweetAlert2, Node.js, Express.js, MongoDB, MongoDB Atlas, Firebase
-
-### Features:
-- User Authentication with Email, Password and Social Login.
-- Executed CRUD Operations with several complex API's in Backend
-- Implemented Dark Mode toggle across the website.
-
-#### Links:  [Live Link](https://auto-crafters-sajeed.netlify.app/) |  [Client Side](https://github.com/SajeedAninda/Auto-Crafters-Client) | [Server Side](https://github.com/SajeedAninda/Auto-Crafters-Server)
-
+#### Links:  [Live Link](https://artisan-alley-client.vercel.app/) |  [Client Side](https://github.com/SajeedAninda/Artisan-Alley-Client) | [Server Side](https://github.com/SajeedAninda/Artisan-Alley-Server)
 
 
 
